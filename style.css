@@ -61,11 +61,12 @@ body{
   }
 
   .right-cont{
-    margin-left: 150px;
+    margin-left: 200px;
   }
 
   .section1 .left-cont{
       margin-top: 20vh;
+      margin-left: 50px;
   }
 
   .section1 .left-cont p {
@@ -137,6 +138,16 @@ body{
   margin-bottom: 20px;
 }
 
+.section2 p{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 3vh;
+  margin-top: 3vh;
+  color: grey;
+  font-size: 1.4rem;
+  line-height: 2rem;
+}
+
 .info-box {
   display: flex;
   margin-top: 10vh;
@@ -161,10 +172,11 @@ body{
   box-shadow: 0px 0px 0px 2.5px #e6ab09;
   outline-color: #e6ab09;
 }
-}
+
 
 .info-box-1 p{
   font-size: 16px;
+  margin-bottom: 10px;
 }
 
 .footer-container h1{
