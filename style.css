@@ -60,6 +60,10 @@ body{
     margin: auto;
   }
 
+  .right-cont{
+    margin-left: 150px;
+  }
+
   .section1 .left-cont{
       margin-top: 20vh;
   }
